@@ -1,4 +1,6 @@
-# Angular BPMN Sample project
+# Angular BPMN Sample project : Angular 6/8/9 + Camunda
+
+
 
 This is a simple project demonstrating how to integrate Angular (6) with the BPMN-JS components. It is the 
 some rewrite of the project integrating Angular2 with BPMN-JS: https://github.com/narve/ang2-bpmnjs 
